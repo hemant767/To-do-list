@@ -1,3 +1,8 @@
+Just a simple to do list that were made to test the react skill by the owner.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
